@@ -12,7 +12,7 @@ import (
 	"go.uber.org/zap"
 	"go.uber.org/zap/zaptest/observer"
 
-	"github.com/wantedly/gorm-zap/testhelper"
+	"github.com/curvesoft/gorm-zap/testhelper"
 )
 
 var pool *testhelper.DockerPool
